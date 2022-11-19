@@ -1,0 +1,14 @@
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\BL-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\BL-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\BE-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\DA_Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\BE-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\DA_Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\obj\Debug\BL-Phonebook.csproj.AssemblyReference.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\obj\Debug\BL-Phonebook.csproj.CoreCompileInputs.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\obj\Debug\BL-Phonebook.csproj.CopyComplete
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\obj\Debug\BL-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\obj\Debug\BL-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\EntityFramework.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\DA_Phonebook.dll.config
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BL-Phonebook\bin\Debug\EntityFramework.xml

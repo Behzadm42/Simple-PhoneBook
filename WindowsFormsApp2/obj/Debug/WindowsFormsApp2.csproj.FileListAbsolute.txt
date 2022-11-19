@@ -1,0 +1,52 @@
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DevComponents.DotNetBar2.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BE-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BL-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BE-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BL-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.dll.config
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BE-Phonebook.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BL-Phonebook.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DevComponents.DotNetBar2.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BE-Phonebook.pdb
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\BL-Phonebook.pdb
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.pdb
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DA_Phonebook.dll.config
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Programming\C#\My Projects\Simple PhoneBook\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

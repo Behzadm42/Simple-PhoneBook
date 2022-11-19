@@ -1,0 +1,17 @@
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\DA_Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\DA_Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\BE-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\BE-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.csproj.AssemblyReference.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.csproj.CoreCompileInputs.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.csproj.CopyComplete
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\DA_Phonebook.dll.config
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\EntityFramework.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\EntityFramework.SqlServer.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\EntityFramework.xml
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\bin\Debug\EntityFramework.SqlServer.xml
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.Migrations.InitialCreate.resources
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.csproj.GenerateResource.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\DA_Phonebook\obj\Debug\DA_Phonebook.Migrations.available.resources

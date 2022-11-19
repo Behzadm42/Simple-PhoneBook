@@ -1,0 +1,6 @@
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\bin\Debug\BE-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\bin\Debug\BE-Phonebook.pdb
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\obj\Debug\BE-Phonebook.csproj.AssemblyReference.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\obj\Debug\BE-Phonebook.csproj.CoreCompileInputs.cache
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\obj\Debug\BE-Phonebook.dll
+G:\Programming\C#\7) final projeh for phonebook\WindowsFormsApp2\BE-Phonebook\obj\Debug\BE-Phonebook.pdb
